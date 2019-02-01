@@ -1,0 +1,90 @@
+@media only screen and (max-width: 600px) {
+    .form-access-landing-page {
+        margin: 150px 0 100px;
+        
+        border-radius: 4px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .text-forgot-password {
+        background-color: #ffffffe3;
+        color: #333;
+        padding: 15px;
+        font-size: 16px;
+    }
+
+ 
+}
+
+.form-access-landing-page-button {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+@media only screen and (min-width: 600px) {
+    .form-access-landing-page {
+        margin: 150px 0 100px;
+        background: rgba(255, 255, 255, 0.68);
+        border-radius: 4px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.logo-form-access-landing-page {
+    padding: 30px;
+}
+
+.form-access-landing-page-hr {
+    border-top: 1px solid #b1afaf;
+}
+
+.information-landing-page h3 {
+    font-size: 56px;
+    font-weight: 300;
+    color: #fff;
+    margin: 30px 0 30px 0;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+}
+
+.information-landing-page p {
+    color: #fff;
+    margin: 30px 0 30px 0;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+
+    background: rgba(88, 87, 87, 0.32);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.information-landing-page a:focus,
+.information-landing-page a:active,
+.information-landing-page a {
+    background-color: #1e87f061;
+    color: #fff;
+    border: 4px solid #1e87f0fa;
+    border-radius: 30px;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+.information-landing-page a:hover {
+    background-color: #1e87f0;
+    color: #fff;
+    border: 4px solid #1e87f0;
+    border-radius: 30px;
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+.height-nav-parallax {
+    height: 570px;
+}
+
+.overflow-parallax-navbar {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #19191954;
+}

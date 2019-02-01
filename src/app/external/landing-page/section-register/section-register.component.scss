@@ -1,0 +1,32 @@
+.section-form-register h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: #fff;
+    padding: 60px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+    background-color: #333333d1;
+    text-align: center;
+}
+
+.form-register {
+    margin: 50px;
+    background: #fff;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.he-register-media-max-600 {
+    font-size: 18px !important
+}
+
+@media only screen and (max-width: 600px) {
+    .form-access-landing-page-button {
+        font-size: 18px !important
+    }
+}
+
+.form-access-landing-page-button {
+    font-size: 20px;
+    font-weight: 600;
+}
